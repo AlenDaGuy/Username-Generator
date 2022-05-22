@@ -1,0 +1,6 @@
+print("Welcome to Alen's UserName Generator!!!")
+color_name =input("What's your favourite color?\n")
+print(color_name)
+animal_name=input("What's your favourite animal?\n")
+print(animal_name)
+print("Your UserName name could be: " + color_name + " " + animal_name)
